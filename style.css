@@ -1,0 +1,77 @@
+h1{    font-size: 48px;
+    font-family: "MedievalSharp", cursive;
+    display: block;
+}
+
+#magic-box{
+    font-size: 1.2rem;
+    padding: 2rem;
+    border-radius: 6px;
+    border-width: 1px;
+    color: #fd7272;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 12px 0px;
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+#magic-title{
+    display: block;
+}
+
+h3{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#magic-content{
+        min-height: 150px;
+}
+
+#magic-phrase{
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 3.2rem;
+    text-align: center;
+    padding: 1rem 1rem 5rem 1rem;
+    margin: 1rem 0.5rem;
+    /* -webkit-appearance: none; */
+    -moz-appearance: none;
+    appearance: none;
+    border: 1px dashed whitesmoke;
+    /* border-radius: 6px; */
+    resize: none;
+    overflow: hidden;
+    border-radius: 6px;
+    display: block;
+
+}
+
+#magic-row {
+    text-align: center;
+       
+}
+
+#magic-btn {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    margin: 1rem;
+    padding: 1rem 2rem;
+    border: none;
+    background-color: orange;
+    color: whitesmoke;
+    border-radius: 1rem;
+    display: inline;
+    text-align: center;
+    cursor: pointer;
+}
+
+footer {
+    display: block;
+}
+
+footer > p{font-style: italic;}
